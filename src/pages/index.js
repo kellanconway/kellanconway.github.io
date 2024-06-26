@@ -1,6 +1,7 @@
 
 export default function Home() {
   return (
-    <h1>Do you ponder</h1>
+    <div id="main-header">Do <em><b>you</b></em> ponder?</div>
+
   );
 }
